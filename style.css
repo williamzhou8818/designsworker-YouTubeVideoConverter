@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 208, 208);
+    color:black;
+}
+.container, .button {
+    margin-top: 20%;
+}
+.container > p {
+    text-align: center;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #343A40;
+    color: white;
+    text-align: center;   
+ }
+ a {
+    color:white;
+ }
+ small {
+     font-size: 10px;
+ }
